@@ -30,8 +30,10 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/breno-c-bispo-970473157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="breno-c-bispo-970473157" height="30" width="40" /></a>
 <a href="mailto:breno.bispo@ufpe.br">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="30" height="30">
-</a></p>
+    <img src="https://img.shields.io/badge/~breno.bispo@ufpe.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+</a>
+
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
